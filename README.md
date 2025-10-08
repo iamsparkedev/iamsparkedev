@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![An image of @iamsparkedev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamsparkedev)](https://holopin.io/@iamsparkedev)
+[![An image of @iamsparkedev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamsparkedev)](https://holopin.io/@iamsparkedev) 
 
 ![NestStudio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsparkedev&show_icons=true&theme=tokyonight)  
 
