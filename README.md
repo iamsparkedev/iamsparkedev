@@ -1,5 +1,5 @@
 **HI, Sparke here**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsparkedev" alt=iamsparkedev" /> </p>
 <!--
 **iamsparkedev/iamsparkedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
