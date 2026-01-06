@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 
 <!-- [![An image of @iamsparkedev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamsparkedev)](https://holopin.io/@iamsparkedev) -->
 
-![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsparkedev&show_icons=true&theme=tokyonight)  
+[![GitHub Streak](https://github-readme-streak-stats-plum-three-22.vercel.app?user=iamsparkedev&theme=vue-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+<!--[ GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsparkedev&show_icons=true&theme=tokyonight)  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=iamsparkedev&theme=tokyonight&border_radius=10)  
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsparkedev&layout=compact&theme=tokyonight)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsparkedev&layout=compact&theme=tokyonight)  --->
 
 
 
