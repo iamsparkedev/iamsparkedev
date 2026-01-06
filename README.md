@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <!--[ GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsparkedev&show_icons=true&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=iamsparkedev&theme=tokyonight&border_radius=10)  
+![GitHub Streak](https://streak-stats.demolab.com?user=iamsparkedev&theme=tokyonight&border_radius=10)  --->
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsparkedev&layout=compact&theme=tokyonight)  --->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsparkedev&layout=compact&theme=tokyonight) 
 
 
 
