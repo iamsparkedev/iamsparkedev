@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <!-- [![An image of @iamsparkedev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamsparkedev)](https://holopin.io/@iamsparkedev) -->
 
-[![GitHub Streak](https://github-readme-streak-stats-plum-three-22.vercel.app?user=iamsparkedev&theme=vue-dark&date_format=j%20M%5B%20Y%5D)]
+![GitHub Streak](https://github-readme-streak-stats-plum-three-22.vercel.app?user=iamsparkedev&theme=vue-dark&date_format=j%20M%5B%20Y%5D)
 
 
 <!--[ GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsparkedev&show_icons=true&theme=tokyonight)  
